@@ -2,7 +2,7 @@
 
 **Course:** CSI4142 Fundamentals of Data Science (Winter 2026)
 **Assignment:** Assignment 1 - Exploratory Data Analysis (EDA)
-**Authors:** [Your Name] & [Partner's Name]
+**Authors:** [Suryadev Andotra] & [Ryan Jiayan Guo]
 
 ## Project Overview
 This repository contains the Jupyter Notebook and datasets for Assignment 1. The goal of this project is to perform comprehensive Exploratory Data Analysis (EDA) on two distinct datasets from different domains.
