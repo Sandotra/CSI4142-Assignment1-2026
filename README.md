@@ -20,6 +20,11 @@ Per the assignment requirements, the datasets are hosted directly in this reposi
 * **Source:** Kaggle
 * **Description:** Analysis of resale values, mileage, transmission types, and fuel efficiency across various manufacturers.
 
+### Dataset 3: Computer Prices (EXTRA)
+* **Domain:** Technology
+* **Source:** Kaggle
+* **Description:** Analysis of Prices of Computers from brand, parts and other aspects.
+
 ## Technologies Used
 * **Language:** Python
 * **Environment:** Jupyter Notebook
